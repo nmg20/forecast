@@ -1,0 +1,9 @@
+- name: "A Coruña"
+  lat: 43.3712591
+  lon: -8.4188010
+  neighbors: ["Arteixo"]
+
+- name: "Arteixo"
+  lat: 43.3281553
+  lon: -8.5183455
+  neighbors: ["A Coruña"]
